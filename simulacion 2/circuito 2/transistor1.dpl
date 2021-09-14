@@ -1,0 +1,44 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,-280,863,1777,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=transistor1.dat>
+  <DataDisplay=transistor1.sch>
+  <OpenDisplay=1>
+  <Script=transistor1.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 160 670 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"vin" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 500 660 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"vin" #0000ff 0 3 0 0 0>
+	<"IC.I" #ff0000 0 3 0 0 0>
+  </Rect>
+  <Rect 230 24 378 224 3 #c0c0c0 1 00 1 0 1 12 1 -0.00170912 0.005 0.02 1 -1 0.5 1 315 0 225 "" "" "" "">
+	<"ic" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Tab 100 1757 169 799 3 #c0c0c0 1 00 1 10 1 1 1 0 1 1 1 0 1 100 315 0 225 "" "" "" "">
+	<"IC.I" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Tab 400 1503 217 566 3 #c0c0c0 1 00 1 22 1 1 1 0 1 1 1 0 1 100 315 0 225 "" "" "" "">
+	<"ic" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Rect 80 352 534 282 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"Vout.V" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
