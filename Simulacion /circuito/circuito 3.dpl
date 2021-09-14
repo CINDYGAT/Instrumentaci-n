@@ -1,0 +1,46 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,-40,1020,1000,1,85,0>
+  <Grid=10,10,0>
+  <DataSet=circuito 3.dat>
+  <DataDisplay=circuito 3.sch>
+  <OpenDisplay=1>
+  <Script=circuito 3.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 130 470 300 200 3 #c0c0c0 1 00 1 243 1 1 1 0 1 1 1 0 1 501 315 0 225 "" "" "" "">
+	<"A_dB" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Rect 180 680 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"out.v" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Tab 500 700 300 200 3 #c0c0c0 1 00 1 249 1 1 1 0 1 1 1 0 1 501 315 0 225 "" "" "" "">
+	<"out.v" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Tab 250 980 300 200 3 #c0c0c0 1 00 1 249 1 1 1 0 1 1 1 0 1 501 315 0 225 "" "" "" "">
+	<"A2" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Rect 571 193 339 183 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"A_dB" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Tab 490 480 300 200 3 #c0c0c0 1 00 1 243 1 1 1 0 1 1 1 0 1 501 315 0 225 "" "" "" "">
+	<"A" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Rect 140 197 362 187 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"A" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
