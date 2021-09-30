@@ -1,0 +1,37 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=-64,20,800,695,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=leds azul.dat>
+  <DataDisplay=leds azul.sch>
+  <OpenDisplay=1>
+  <Script=leds azul.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 110 210 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"V1.I" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 440 200 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"voltaje.V" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Tab 430 675 269 405 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 20 315 0 225 "" "" "" "">
+	<"corriente.I" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Rect 40 562 316 202 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"corriente.I" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
