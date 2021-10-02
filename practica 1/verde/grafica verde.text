@@ -1,0 +1,14 @@
+set ylabel "Corriente [mA]"
+set xlabel "Voltaje [V]"
+set key top left box
+set key font "Arial,10"
+set tics font "Arial,9"
+set xlabel font "Arial,9"
+set ylabel font "Arial,9"
+set title font "Arial,9"
+#set tics nomirror
+#plot "valores verde.text" using 1:2 title "Diodo LED Verde" w lp lw 2 linecolor rgb '#27ad81' # green
+#plot "valores verde.text" using 1:2:3:4 with xyerrorbars title "Diodo LED Verde" lw 2 linecolor rgb '#27ad81' # green
+#with xyerrorbars
+plot "valores verde.text" using 1:2 title "Diodo LED Verde" lw 2 linecolor rgb '#27ad81' # green
+
